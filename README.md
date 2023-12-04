@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on the design and implementation of the "Bonus Program" architecture at Qazcloud, a leading telecommunication company.
-- 🌱 I’m currently learning Amazon Web Services(Cloud practitioner course)
+- 🌱 I’m currently learning System Design Fundamentals(Algoexpert course)
 - 📫 How to reach me: poltayev@gmail.com
 
 <div>
